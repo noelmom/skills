@@ -25,8 +25,7 @@ Each skill documents a complete process rather than just a collection of notes. 
 skills/
 ├── openssh-keyboard-interactive-lab/
 │   ├── README.md
-│   ├── SKILL.md
-│   └── assets/
+│   └── SKILL.md
 ├── ...
 ```
 
