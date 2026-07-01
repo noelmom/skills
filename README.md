@@ -23,7 +23,7 @@ Each skill documents a complete process rather than just a collection of notes. 
 
 ```text
 skills/
-├── openssh-keyboard-interactive-lab/
+├── swift-nio-ssh-keyboard-interactive-testing/
 │   ├── README.md
 │   └── SKILL.md
 ├── ...
